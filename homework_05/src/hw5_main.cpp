@@ -124,7 +124,6 @@ void test1 ( ) {
 
 	PegSolitaire PegGame;
 	
-
 	std::cout << "\033[H\033[J";
 	std::cout << "<< operator will be tested.\n";
 	test_sleepGame(2);

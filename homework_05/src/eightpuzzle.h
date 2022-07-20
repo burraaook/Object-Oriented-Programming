@@ -31,6 +31,8 @@ namespace GameGTU
   		// Makes one random move.
 		virtual void playAuto();
 
+		using BoardGame2D::playUser; // call from base class
+		
 		// Takes input from user and performs the given command.
 		virtual void playUser(const std::string& command);
 
