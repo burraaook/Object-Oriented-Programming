@@ -1,0 +1,12 @@
+usertype = 2
+boardType = 6
+rowBound = 7
+colBound = 13
+number of moves = 0
+      P      
+     P P     
+    P P P    
+   P P P P   
+  P P . P P  
+ P P P P P P 
+P P P P P P P

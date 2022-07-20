@@ -1,0 +1,14 @@
+There are 12 dates are in this DayOfYearSet object. Dates are: 
+5  February   
+11 March      
+7  October    
+1  January    
+5  September  
+7  September  
+22 January    
+2  February   
+28 February   
+6  January    
+3  May        
+2  September  
+

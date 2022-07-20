@@ -1,0 +1,1193 @@
+<< operator will be tested.
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K P X Y |
+| W     E |
+***********
+
+_____Klotski Puzzle Game_____
+
+
+____<< operator works fine for Klotski class.
+
+X DOWN command sent to playUser() function.
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K P   Y |
+| W   X E |
+***********
+
+_____Klotski Puzzle Game_____
+
+Game is not ended!
+
+____playUser() function which takes string argument, works fine for Klotski.
+____Also print() and endGame() works fine for Klotski class.
+Two random move will be made by computer.
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K   P Y |
+| W   X E |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is(less is better) = 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K P   Y |
+| W   X E |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is(less is better) = 4
+____playAuto() and  boardScore() functions work fine for Klotski class.
+initialize() function will be called
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K P X Y |
+| W     E |
+***********
+
+_____Klotski Puzzle Game_____
+
+
+____initialize() function works fine for Klotski class.
+playAutoAll() function will be called.
+It might be take a little long time but it will not print board for each step after 100 successful moves, It will print finished board.
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K P X Y |
+| W     E |
+***********
+
+_____Klotski Puzzle Game_____
+
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K P X Y |
+| W   E   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K P X Y |
+| W   E Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K P X Y |
+| W   E   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K   X Y |
+| W P E   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K   X Y |
+| W P E Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| K M M C |
+| K   X Y |
+| W P E Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K   X Y |
+| W P E Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K   M M |
+| K   X Y |
+| W P E Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K   M M |
+| K X   Y |
+| W P E Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K   M M |
+| K X E Y |
+| W P   Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K X E Y |
+| W P   Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K X   Y |
+| W P E Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K X E Y |
+| W P   Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| K M M C |
+| K X E Y |
+| W P   Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| K M M C |
+| K X E Y |
+| W   P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K X E Y |
+| W   P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K X E Y |
+| W   P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K X E Y |
+| W   P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K X E Y |
+| W   P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K X E Y |
+| W   P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K X E Y |
+| W   P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K X E Y |
+|   W P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X E Y |
+| K W P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X E Y |
+| K W   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K X E Y |
+| K W   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X E Y |
+| K W   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X E Y |
+| K   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M Y |
+| K X E Y |
+| K   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M Y |
+| K X E Y |
+| K W   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M Y |
+| K X   Y |
+| K W E P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X   Y |
+| K W E P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K   X Y |
+| K W E P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K   X Y |
+|   W E P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K   X Y |
+| K W E P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K   X Y |
+| K W E P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K   X Y |
+| K W E P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K   X Y |
+| K W E P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K X   Y |
+| K W E P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K X E Y |
+| K W   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X E Y |
+| K W   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X E Y |
+| K   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M Y |
+| K X E Y |
+| K   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X E Y |
+| K   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M Y |
+| K X E Y |
+| K   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M Y |
+| K   E Y |
+| K X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M Y |
+| K X E Y |
+| K   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M Y |
+| K   E Y |
+| K X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M Y |
+| K E   Y |
+| K X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K E   Y |
+| K X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K E   Y |
+|   X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K E   Y |
+| K X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K E   Y |
+|   X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K E   Y |
+| X   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K E W Y |
+| X     P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K E   Y |
+| X   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K E   Y |
+|   X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K E W Y |
+|   X   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K E W Y |
+|     X P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K E W Y |
+| K   X P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K E W Y |
+| K   X P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K E W Y |
+| K X   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K E   Y |
+| K X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K   E Y |
+| K X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M E Y |
+| K     Y |
+| K X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M E Y |
+| K   W Y |
+| K X   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M E Y |
+| K     Y |
+| K X W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M E Y |
+| K X   Y |
+| K   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M E Y |
+| K X W Y |
+| K     P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M E Y |
+| K X   Y |
+| K   W P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M E Y |
+| K X   Y |
+| K W   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K X E Y |
+| K W   P |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K X E Y |
+| K W P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M E Y |
+| K X   Y |
+| K W P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K X E Y |
+| K W P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X E Y |
+| K W P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M   |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|     M M |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M   |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B C |
+| A B B C |
+| A M M   |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M   |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+|   M M C |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| M M   C |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+|   M M C |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| K M M C |
+| K X E Y |
+|   W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K X E Y |
+|   W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| K M M C |
+| K X E Y |
+|   W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+|   M M C |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| K M M C |
+| K X E Y |
+|   W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+|   M M C |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+|   B B   |
+| A B B C |
+| A M M C |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+|   M M C |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| M M   C |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M     |
+| K X E Y |
+| K W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| M M   Y |
+| K X E Y |
+| K W P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+|   M M Y |
+| K X E Y |
+| K W P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K X E Y |
+|   W P   |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K X E Y |
+|   W P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B C |
+| A B B C |
+| K M M   |
+| K X E Y |
+| W   P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| K M M C |
+| K X E Y |
+| W   P Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+___________
+| A B B   |
+| A B B C |
+| K M M C |
+| K X E Y |
+| W P   Y |
+***********
+
+_____Klotski Puzzle Game_____
+
+Score is (less score is better): 4
+100 moves are already made. Rest of the moves will be made without printing one by one.
+Computer is making moves...
+___________
+| P E A C |
+| Y K A C |
+| Y K M M |
+|   B B W |
+|   B B X |
+***********
+
+_____Klotski Puzzle Game_____
+
+Game is ended with 126300 successful move.
+Score is(less score is better) = 0
+PlayAutoAll() and endGame() functions works fine for Klotski class.

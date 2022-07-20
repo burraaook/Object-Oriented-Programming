@@ -1,0 +1,10 @@
+There are 8 dates are in this DayOfYearSet object. Dates are: 
+3  January    
+13 February   
+7  Jun        
+8  January    
+6  January    
+6  September  
+29 December   
+2  February   
+

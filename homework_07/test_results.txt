@@ -1,0 +1,238 @@
+___Testing DayOfYearSet Class___
+
+Testing no parameter constructor of DayOfYearSet.
+Total number of DayOfYearObject = 0
+
+Empty set1 is created.
+set1: DayOfYearSet is empty.
+
+
+___No parameter constructor is tested.___
+
+
+Adding elements to set1 with using add(int, int) and add(DayOfYear) method.
+
+Dates are added to set1.
+set1: There are 8 dates are in this DayOfYearSet object. Dates are: 
+3  May        
+2  September  
+5  February   
+11 March      
+7  October    
+1  January    
+28 February   
+22 January    
+
+
+Total number of DayOfYearObject = 8
+
+___add(int, int) and add(DayOfYear) are tested. Adding same date is tried and no duplication happened every element is unique.___
+___No parameter and DayOfYear(int, int) constructors are tested.___
+___toString() override is also tested.(set1 used in printf directly)___
+___static method that returns the total number of DayOfYear objects alive is tested.___
+
+Testing constructor which takes ArrayList argument and copy constructor.
+
+ArrL1 which is ArrayList of DayOfYear objects is created, and ArrayList constructor called while constructing set2.
+
+set2: There are 8 dates are in this DayOfYearSet object. Dates are: 
+3  January    
+13 February   
+7  Jun        
+8  January    
+6  January    
+6  September  
+29 December   
+2  February   
+
+Copy constructor is used while creating set3. set3 created with making deep copy of set1.
+
+set3: There are 8 dates are in this DayOfYearSet object. Dates are: 
+3  May        
+2  September  
+5  February   
+11 March      
+7  October    
+1  January    
+28 February   
+22 January    
+
+___ArrayList constructor of DayOfYearSet and copy constructor of DayOfYearSet are tested.___
+
+Testing equals() method for set1, set2, and set3.
+Three dates are added and shuffled a bit with different order in set1, set3 to indicate order does not matter for equals() method.
+
+set1: There are 12 dates are in this DayOfYearSet object. Dates are: 
+2  September  
+7  October    
+1  January    
+28 February   
+6  January    
+5  September  
+2  February   
+22 January    
+11 March      
+5  February   
+3  May        
+7  September  
+
+set3: There are 12 dates are in this DayOfYearSet object. Dates are: 
+5  February   
+11 March      
+7  October    
+1  January    
+5  September  
+7  September  
+22 January    
+2  February   
+28 February   
+6  January    
+3  May        
+2  September  
+
+set1 and set3 must be equal.
+
+set1 is equal to set3(inside if(set1.equals(set3) condition).
+
+set2 is not equal to set1(inside if(!(set2.equals(set1)) condition).
+
+set1.size() = 12 --- set2.size() = 8 --- set3.size() = 12
+
+___remove(), remove(int, int), remove(DayOfYear) and size() methods are tested and they work fine.___
+
+___equals() method is tested and works fine(order does not matter). Prints are made inside if conditions.___
+
+set4 is created using ArrayList constructor.
+set4: There are 8 dates are in this DayOfYearSet object. Dates are: 
+4  November   
+6  September  
+5  February   
+29 December   
+6  January    
+1  January    
+2  July       
+23 January    
+
+set5 is created using no parameter constructor.
+set5: There are 8 dates are in this DayOfYearSet object. Dates are: 
+9  Jun        
+3  January    
+2  July       
+9  September  
+23 January    
+11 October    
+18 September  
+4  November   
+
+
+Total number of DayOfYearObject = 48
+
+Intersection of set4 and set5 is: There are 3 dates are in this DayOfYearSet object. Dates are: 
+4  November   
+2  July       
+23 January    
+
+Intersection of set1 and set2 is: There are 2 dates are in this DayOfYearSet object. Dates are: 
+6  January    
+2  February   
+
+Intersection of set3 and set3.complement() is(must be empty): DayOfYearSet is empty.
+
+Union of set1 and set2 is: There are 18 dates are in this DayOfYearSet object. Dates are: 
+3  January    
+13 February   
+7  Jun        
+8  January    
+6  January    
+6  September  
+29 December   
+2  February   
+2  September  
+7  October    
+1  January    
+28 February   
+5  September  
+22 January    
+11 March      
+5  February   
+3  May        
+7  September  
+
+Union of set4 and set5 is: There are 3 dates are in this DayOfYearSet object. Dates are: 
+4  November   
+2  July       
+23 January    
+
+set1's difference of set4 is: There are 9 dates are in this DayOfYearSet object. Dates are: 
+2  September  
+7  October    
+28 February   
+5  September  
+2  February   
+22 January    
+11 March      
+3  May        
+7  September  
+
+set3's difference of set5 is: There are 12 dates are in this DayOfYearSet object. Dates are: 
+5  February   
+11 March      
+7  October    
+1  January    
+5  September  
+7  September  
+22 January    
+2  February   
+28 February   
+6  January    
+3  May        
+2  September  
+
+set1's difference of set3 is(must be empty): DayOfYearSet is empty.
+
+___union(), intersection(), difference(), and complement() methods are tested.___
+
+
+Testing De Morgan rule
+
+1- Testing De Morgan rule for set1 and set2
+1- De morgan rule is satisfied for set1 and set2.(printed inside if condition)
+
+
+2- Testing De Morgan rule for set3 and set4
+2- De morgan rule is satisfied for set3 and set4.(printed inside if condition)
+
+
+3- Testing De Morgan rule for set5 and set1
+3- De morgan rule is satisfied for set5 and set1.(printed inside if condition)
+
+
+4- Testing De Morgan rule for set4 and set2
+4- De morgan rule is satisfied for set4 and set2.(printed inside if condition)
+
+
+5- Testing De Morgan rule for set3 and set1
+5- De morgan rule is satisfied for set3 and set1.(printed inside if condition)
+
+
+6- Testing De Morgan rule for set2 and set5
+6- De morgan rule is satisfied for set2 and set5.(printed inside if condition)
+
+___De Morgan rule is tested for 6 different pairs. They all worked fine!___
+
+___set1, set2, set3 and set1.complement(), set1.difference(est2), set2.union(set1), set1.intersection(set2) are written to txt files successfully.___
+
+
+___Test Summary___
+
+1- toString() tested more than 10 times.
+2- Equals() is tested 7 times, also it is used inside some methods.
+3- Default constructor, no parameter constructor, copy constructor, and ArrayList constructors each of them tested more than 2 times for DayOfYearSet.
+4- DayOfYear classes constructors are also tested more than 2 times.
+6- add(int, int), add(DayOfYear) methods are tested more than 10 times.
+7- size() and getTotalDOYObjects() methods are tested more than 2 times. 
+8- remove(), remove(int, int), remove(DayOfYear) methods each of them tested more than 2 times.
+9- union, intersection, complement, difference methods each of them are tested more than 5 times.
+10- De Morgan rule is confirmed 6 times.
+11- 6 different sets are written to txt files.
+

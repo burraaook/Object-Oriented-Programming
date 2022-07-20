@@ -1,0 +1,6 @@
+There are 5 dates in this set. Dates are:
+3 Jun
+30 May
+3 March
+15 February
+13 December

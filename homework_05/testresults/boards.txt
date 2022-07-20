@@ -1,0 +1,38 @@
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P P P      
+4  P P P P P P P P P
+5  P P P P . P P P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+
+**********
+* 5* 8* 4*
+**********
+* 7* 3* 2*
+**********
+* 1*  * 6*
+**********
+
+_____Eight Puzzle Game_____
+
+
+
+___________
+| A B B C |
+| A B B C |
+| K M M Y |
+| K P X Y |
+| W     E |
+***********
+
+_____Klotski Puzzle Game_____
+
+

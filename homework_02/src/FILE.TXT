@@ -1,0 +1,12 @@
+usertype = 2
+operationType = 1
+rowBound = 7
+colBound = 11
+number of moves = 0
+   PPP  PP 
+   PPP  PP 
+ PPPPPPPPP 
+PPPP.PPPPPP
+ PPPPPPPPP 
+   PPP     
+   PPP     

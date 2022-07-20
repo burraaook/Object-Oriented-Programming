@@ -1,0 +1,611 @@
+<< operator will be tested.
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P P P      
+4  P P P P P P P P P
+5  P P P P . P P P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+
+____<< operator works fine for PegSolitaire.
+G5 LEFT command will be sent to playUser() function.
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P P P      
+4  P P P P P P P P P
+5  P P P P P . . P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+
+Game is not ended!
+____playUser() function which takes string argument, works fine for Pegsolitaire.
+____Also print() and endGame() works fine for PegSolitaire class.
+Two random move will be made by computer.
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P P P      
+4  P P P P P P P P P
+5  P P P . . P . P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is(less is better) = 42
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P . P      
+4  P P P P . P P P P
+5  P P P . P P . P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is(less is better) = 41
+____playAuto() and  boardScore() functions work fine for PegSolitaire class.
+initialize() function will be called
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P P P      
+4  P P P P P P P P P
+5  P P P P . P P P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+____initialize() function works fine for PegSolitaire class.
+playAutoAll() function will be called.
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P P P      
+4  P P P P P P P P P
+5  P P P P . P P P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P P P      
+4  P P P P P P P P P
+5  P P . . P P P P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 43
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        . P P      
+4  P P P . P P P P P
+5  P P . P P P P P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 42
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        . P P      
+4  P P P P . . P P P
+5  P P . P P P P P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 41
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        . P P      
+4  P P P P . P . . P
+5  P P . P P P P P P
+6  P P P P P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 40
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        . P P      
+4  P P P P P P . . P
+5  P P . P . P P P P
+6  P P P P . P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 39
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        . P P      
+4  P P P P P P . . P
+5  P P . P . P P P P
+6  P P . . P P P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 38
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        . P P      
+4  P P P P P P . . P
+5  P P . P . P P P P
+6  P P . P . . P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 37
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P P P      
+4  P P P . P P . . P
+5  P P . . . P P P P
+6  P P . P . . P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 36
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P . P      
+4  P P P . . P . . P
+5  P P . . P P P P P
+6  P P . P . . P P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 35
+   A B C D E F G H I 
+1        P P P      
+2        P P P      
+3        P . P      
+4  P P P . . P P . P
+5  P P . . P P . P P
+6  P P . P . . . P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 34
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  P P P . . P P . P
+5  P P . . P P . P P
+6  P P . P . . . P P
+7        P P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 33
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  P P P . . P P . P
+5  P P . P P P . P P
+6  P P . . . . . P P
+7        . P P      
+8        P P P      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 32
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  P P P . . P P . P
+5  P P . P P P . P P
+6  P P . . . . . P P
+7        P P P      
+8        . P P      
+9        . P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 31
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  P P P . . P P . P
+5  P P . P P P . P P
+6  P P . . . . P . .
+7        P P P      
+8        . P P      
+9        . P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 30
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  P P P . . P P . P
+5  P P . P . . P P P
+6  P P . . . . P . .
+7        P P P      
+8        . P P      
+9        . P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 29
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  P . . P . P P . P
+5  P P . P . . P P P
+6  P P . . . . P . .
+7        P P P      
+8        . P P      
+9        . P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 28
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  P . . P . P P . P
+5  P P . P . . P P P
+6  . . P . . . P . .
+7        P P P      
+8        . P P      
+9        . P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 27
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  . . . P . P P . P
+5  . P . P . . P P P
+6  P . P . . . P . .
+7        P P P      
+8        . P P      
+9        . P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 26
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  . . . P . P P . P
+5  . P . P . . P P P
+6  P . P . . . P . .
+7        P P P      
+8        P . .      
+9        . P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 25
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  . . . . . P P . P
+5  . P . . . . P P P
+6  P . P P . . P . .
+7        P P P      
+8        P . .      
+9        . P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 24
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  . . . . . P P . P
+5  . P . . . . P P P
+6  P P . . . . P . .
+7        P P P      
+8        P . .      
+9        . P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 23
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  . . . . . P P . P
+5  . P . . . . P P P
+6  P P . . . . P . .
+7        . P P      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 22
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  . . . . . P P . P
+5  . P . . . . P P P
+6  P P . . . . P . .
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 21
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  . . . . . P P . P
+5  . P . . . P . . P
+6  P P . . . . P . .
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 20
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        P P P      
+4  . . . . . . P . P
+5  . P . . . . . . P
+6  P P . . . P P . .
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 19
+   A B C D E F G H I 
+1        P . P      
+2        P . .      
+3        P P .      
+4  . . . . . P P . P
+5  . P . . . . . . P
+6  P P . . . P P . .
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 18
+   A B C D E F G H I 
+1        P . P      
+2        P . .      
+3        P P .      
+4  . . . . . P P . P
+5  . P . . . . . . P
+6  . . P . . P P . .
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 17
+   A B C D E F G H I 
+1        P . P      
+2        P . .      
+3        . . P      
+4  . . . . . P P . P
+5  . P . . . . . . P
+6  . . P . . P P . .
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 16
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        . . .      
+4  . . . . . . P . P
+5  . P . . . . . . P
+6  . . P . . P P . .
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 15
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        . . .      
+4  . . . . . . P . P
+5  . P . . . . . . P
+6  . . P . P . . . .
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 14
+   A B C D E F G H I 
+1        P . P      
+2        P . P      
+3        . . .      
+4  . . . . . . P . .
+5  . P . . . . . . .
+6  . . P . P . . . P
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 13
+   A B C D E F G H I 
+1        P . .      
+2        P . .      
+3        . . P      
+4  . . . . . . P . .
+5  . P . . . . . . .
+6  . . P . P . . . P
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 12
+   A B C D E F G H I 
+1        . . .      
+2        . . .      
+3        P . P      
+4  . . . . . . P . .
+5  . P . . . . . . .
+6  . . P . P . . . P
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Score is (less score is better): 11
+   A B C D E F G H I 
+1        . . .      
+2        . . .      
+3        P . P      
+4  . . . . . . P . .
+5  . P . . . . . . .
+6  . . P . P . . . P
+7        P . .      
+8        . . .      
+9        P P P      
+
+_____Peg Solitaire Game_____
+
+
+Game is ended with 33 successful move.
+Score is(less score is better) = 11
+____PlayAutoAll() and endGame() functions works fine for PegSolitaire class.
