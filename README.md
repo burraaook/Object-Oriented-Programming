@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-University assignments which are about c++ basics, classes, objects, data abstraction, operator overloading, inheritance, virtual functions, polymorphism, templates, exception handling, standart template library, introduction to java
+University assignments which are about c++ basics, Classes, Objects, Data Abstraction, Operator Overloading, Inheritance, Virtual Functions, Polymorphism, Templates, Exception Handling, Standart Template Library, Introduction To Java.
